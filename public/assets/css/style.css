@@ -1,0 +1,44 @@
+.jumbotron {
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.jumbotron > h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+body {
+    background-color: #fff;
+}
+
+#lefthead {
+    background-color: green;
+    color:#fff;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #devourbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: red;
+    text-color: #fff;
+    columns: #ffff;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
